@@ -1,2 +1,3 @@
 # pixi_parcel_boilerplate
-Pixi.js boilerplate using parcel, audiosprite &amp; texturepacker.
+Pixi.js boilerplate using parcel, audiosprite and texturepacker.
+
